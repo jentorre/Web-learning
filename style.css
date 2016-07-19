@@ -1,3 +1,7 @@
+body {
+	font-family: "Textile", Helvetica, Arial, sans-serif;
+}
+
 h1 {
 	color: #FF00FF;
 	font-size: 36px;
@@ -10,6 +14,10 @@ img {
   border-radius: 10px;
 }
 
+li {
+	list-style: none;
+}
+
 .more-info {
 	text-align: center;
 	font-size: 18px;
@@ -18,8 +26,12 @@ img {
 
 .main-header {
 	text-align: center;
-	padding-top: 35px;
+	padding-top: 15px;
 	background-image: url('ernestine.jpg') center no-repeat;
 	background-size: cover;
-	background-
 }
+
+.fav-things {
+	float: left;
+}
+
