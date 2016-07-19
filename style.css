@@ -10,14 +10,16 @@ img {
   border-radius: 10px;
 }
 
-.ernestine {
-	width: 350px;
-	align: center;
-}
-
-.more-info{
+.more-info {
 	text-align: center;
 	font-size: 18px;
-	color: palegreen;
 	font-weight: bold;
+}
+
+.main-header {
+	text-align: center;
+	padding-top: 35px;
+	background-image: url('ernestine.jpg') center no-repeat;
+	background-size: cover;
+	background-
 }
