@@ -1,8 +1,23 @@
 h1 {
 	color: #FF00FF;
+	font-size: 36px;
 	text-align: center;
 }
 
+img {
+  max-width: 100%;
+  margin-bottom: 20px;
+  border-radius: 10px;
+}
+
 .ernestine {
-	width: 300px;
+	width: 350px;
+	align: center;
+}
+
+.more-info{
+	text-align: center;
+	font-size: 18px;
+	color: palegreen;
+	font-weight: bold;
 }
