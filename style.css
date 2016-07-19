@@ -33,5 +33,6 @@ li {
 
 .fav-things {
 	float: left;
+	padding-left: 10px;
 }
 
