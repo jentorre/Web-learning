@@ -28,10 +28,13 @@ img {
   max-width: 80%;
   margin-bottom: 10px;
   border-radius: 30px;
+  transform: rotate(90deg);
 }
 
 li {
 	list-style: none;
+	padding-top: 10px;
+	text-align: center;
 }
 
 .more-info {
@@ -48,19 +51,21 @@ li {
 
 .fav-things-left,
 .fav-things-right {
-	width: 40%;
+	width: 20%;
 	color: #000;
+	border: 2px dotted grey;
+	border-radius: 10px;
+	margin-bottom: 40px;
 }
 
 .fav-things-left {
 	float: left;
-	padding-left: 10px;
-	border: 2px dotted grey;
-	border-radius: 10px;
+	margin-left: 40px;
 }
 
 .fav-things-right {
 	float: right;
+	margin-right: 40px;
 	padding-right: 40px;
 }
 
