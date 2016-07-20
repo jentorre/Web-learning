@@ -25,10 +25,10 @@ h3 {
 }
 
 img {
-  max-width: 80%;
+  max-width: 90%;
   margin-bottom: 10px;
   border-radius: 30px;
-  transform: rotate(90deg);
+  /*transform: rotate(90deg);*/
 }
 
 li {
@@ -44,7 +44,7 @@ li {
 
 .main-header {
 	text-align: center;
-	padding-top: 15px;
+	padding-top: 20px;
 	background-image: url('ernestine.jpg') center no-repeat;
 	background-size: cover;
 }
