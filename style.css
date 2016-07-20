@@ -22,12 +22,15 @@ h1 {
 h3 {
 	text-align: center;
 	font-size: 24px;
+	color: slategrey;
 }
 
 img {
   max-width: 90%;
   margin-bottom: 10px;
-  border-radius: 30px;
+  border-radius: 40px;
+  padding-right: 40px;
+  padding-left: 40px;
   /*transform: rotate(90deg);*/
 }
 
@@ -47,6 +50,7 @@ li {
 	padding-top: 20px;
 	background-image: url('ernestine.jpg') center no-repeat;
 	background-size: cover;
+	border-bottom: 2px solid #dfe2e6;
 }
 
 .fav-things-left,
@@ -61,12 +65,12 @@ li {
 
 .fav-things-left {
 	float: left;
-	margin-left: 40px;
+	margin-left: 60px;
 }
 
 .fav-things-right {
 	float: right;
-	margin-right: 40px;
+	margin-right: 60px;
 }
 
 
