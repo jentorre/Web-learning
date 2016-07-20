@@ -6,6 +6,9 @@
        url('fonts/abolition-regular-webfont.ttf') format('truetype');
 }
 
+* {
+  box-sizing: border-box;
+}
 
 body {
 	font-family: 'Abolition Regular', Helvetica, Arial, sans-serif;
@@ -28,14 +31,14 @@ h3 {
 img {
   max-width: 90%;
   margin-bottom: 10px;
-  border-radius: 40px;
+  border-radius: 30px;
   padding-right: 40px;
   padding-left: 40px;
   /*transform: rotate(90deg);*/
 }
 
 li {
-	list-style: none;
+	list-style-type: circle;
 	padding-top: 10px;
 	text-align: center;
 }
