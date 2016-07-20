@@ -21,11 +21,12 @@ h1 {
 
 h3 {
 	text-align: center;
+	font-size: 24px;
 }
 
 img {
   max-width: 80%;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
   border-radius: 30px;
 }
 
@@ -36,7 +37,6 @@ li {
 .more-info {
 	text-align: center;
 	font-size: 18px;
-	font-weight: bold;
 }
 
 .main-header {
@@ -48,13 +48,15 @@ li {
 
 .fav-things-left,
 .fav-things-right {
-	width: 60%;
+	width: 40%;
 	color: #000;
 }
 
 .fav-things-left {
 	float: left;
 	padding-left: 10px;
+	border: 2px dotted grey;
+	border-radius: 10px;
 }
 
 .fav-things-right {
